@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Olympus Splash
+Description=Splash screen kustom tugas proyek Sistem Operasi
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/distro-splash
+ScriptFile=/usr/share/plymouth/themes/distro-splash/distro-splash.script
