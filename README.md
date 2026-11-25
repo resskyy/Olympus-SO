@@ -13,7 +13,7 @@
   - Ratu Felisha Aulia (251011057)
   - Wulan Muliana (251011059)
   - Iqlilah Dini Marhayanti (251011084)
-  - yudyah Pratiwi Aswar (251011098)
+  - Ayudyah Pratiwi Aswar (251011098)
   - Abdul Rahim Azhar (251011147)
   - Haeril Apriadi (251011068)
 
