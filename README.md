@@ -57,14 +57,14 @@
 
 ## Hasil Pengujian VM(Virtual Mesin)
 
-1. Tampilan Live User(Sebelum Install)
+## 1. Tampilan Live User(Sebelum Install)
 <img width="800" height="600" alt="distro1" src="https://github.com/user-attachments/assets/54388fb3-368a-4ffc-8fd8-4a274a9851a5" />
 
-2. Tampilan Awal Booting
+## 2. Tampilan Awal Booting
 <img width="800" height="600" alt="distro2" src="https://github.com/user-attachments/assets/3dc25638-887c-45bd-a326-fd19b395542f" />
 
-3. Tampilan Saat Menginstall
+## 3. Tampilan Saat Menginstall
 <img width="800" height="600" alt="distro4" src="https://github.com/user-attachments/assets/7d2fba5a-b4a8-47b1-845a-29c1a2895457" />
 
-4. Tampilan Setelah Install
+## 4. Tampilan Setelah Install
 <img width="1280" height="800" alt="distro3" src="https://github.com/user-attachments/assets/2b1205d7-d619-4626-981d-94cec26f30cd" />
