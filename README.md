@@ -6,15 +6,16 @@
 - **Alat Build:** Cubic
 - **Desktop Environment \& Display Manager:** XFCE \& LightDM
 - **Anggota Kelompok:**
- - Muhammad Resky (251011090)
- - A. Syamsul Alam (251011042)
- - Muhammad Rhazya (251011082)
- - Ahmad Fauzil Adhim (251011075)
- - Ratu Felisha Aulia (251011057)
- - Wulan Muliana (251011059)
- - Iqlilah Dini Marhayanti (251011084)
- - Ayudyah Pratiwi Aswar (251011098)
- - Abdul Rahim Azhar (251011147)
+   Muhammad Resky (251011090)
+   A. Syamsul Alam (251011042)
+   Muhammad Rhazya (251011082)
+   Ahmad Fauzil Adhim (251011075)
+   Ratu Felisha Aulia (251011057)
+   Wulan Muliana (251011059)
+   Iqlilah Dini Marhayanti (251011084)
+   Ayudyah Pratiwi Aswar (251011098)
+   Abdul Rahim Azhar (251011147)
+   Haeril Apriadi (251011068)
 
 ## Struktur Repositori
 
