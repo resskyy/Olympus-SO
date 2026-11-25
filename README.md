@@ -7,7 +7,7 @@
 - **Desktop Environment \& Display Manager:** XFCE \& LightDM
 - **Anggota Kelompok:**
   - Muhammad Resky (251011090)
-  - A. Syamsul Alam (251011042)
+  - A. SYAMSUL ALAM (251011042)
   - Muhammad Rhazya (251011082)
   - Ahmad Fauzil Adhim (251011075)
   - Ratu Felisha Aulia (251011057)
